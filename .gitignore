@@ -1,0 +1,12 @@
+# Agent activity log (local only)
+.agent/
+
+# macOS
+.DS_Store
+
+# Xcode / Swift
+build/
+DerivedData/
+.build/
+*.xcuserstate
+xcuserdata/
